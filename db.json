@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "6",
+      "name": "Reno3",
+      "image": "https://cdn.nguyenkimmall.com/images/detailed/649/10045584_dien-thoai-oppo-reno-3-den-1.jpg",
+      "price": "461.00"
+    },
+    {
+      "id": "8",
+      "name": "Samsung j7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0-kBa2DObx34aTq82HypFFKcvFF5BsDITGw&usqp=CAU",
+      "price": "57.00"
+    },
+    {
+      "id": "9",
+      "name": "huawei Nova 3i",
+      "image": "https://cdn.pico.vn/Product/38686/big_304934_dien_thoai_di_dong_huawei_nova_3i_tim_ine-lx2_purple.jpg",
+      "price": "836.00"
+    },
+    {
+      "id": "exf9pav4u",
+      "name": "phongvhph09217",
+      "price": "12"
+    },
+    {
+      "id": "w9m05tt24",
+      "name": "phongvhph09217",
+      "image": "https://firebasestorage.googleapis.com/v0/b/website-39b43.appspot.com/o/images%2F15031ff3ef62093c5073.jpg?alt=media&token=14095037-51e0-49e3-bfcb-d948def51d1f",
+      "price": "12"
+    },
+    {
+      "id": "2ewsc30ao",
+      "name": "sdf",
+      "image": "https://firebasestorage.googleapis.com/v0/b/website-39b43.appspot.com/o/images%2F4edf092cf9bd1fe346ac.jpg?alt=media&token=726f2d54-01c0-49ed-8bba-9ae71d983e3a",
+      "price": "12"
+    }
+  ]
+}
